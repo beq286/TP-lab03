@@ -83,7 +83,7 @@ $cmake --build ./_build
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to:  /home/beq/beq286/workspace/tasks/lab03/f/_build
+-- Build files have been written to:  /home/beq/beq286/workspace/tasks/lab03/formatter_ex_lib/_build
 
 
 [ 25%] Building CXX object formatter_lib/CMakeFiles/formatter_lib.dir/formatter.cpp.o
