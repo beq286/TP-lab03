@@ -36,7 +36,7 @@ $cmake --build ./_build
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/zarok/projects/tp_labs/tp_projects/lab03/formatter_lib/_build
+-- Build files have been written to:  /home/beq/beq286/workspace/tasks/lab03/formatter_lib/_build
 
 [ 50%] Building CXX object CMakeFiles/formatter_lib.dir/formatter.cpp.o
 [100%] Linking CXX static library libformatter_lib.a
@@ -83,7 +83,7 @@ $cmake --build ./_build
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/zarok/projects/tp_labs/tp_projects/lab03/formatter_ex_lib/_build
+-- Build files have been written to:  /home/beq/beq286/workspace/tasks/lab03/f/_build
 
 
 [ 25%] Building CXX object formatter_lib/CMakeFiles/formatter_lib.dir/formatter.cpp.o
@@ -135,7 +135,7 @@ $cmake --build ./_build
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/zarok/projects/tp_labs/tp_projects/lab03/hello_world_application/_build
+-- Build files have been written to:  /home/beq/beq286/workspace/tasks/lab03/hello_world_application/_build
 
 
 [ 16%] Building CXX object formatter_ex_lib/formatter_lib/CMakeFiles/formatter_lib.dir/formatter.cpp.o
@@ -184,7 +184,7 @@ $cmake --build ./_build
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/zarok/projects/tp_labs/tp_projects/lab03/solver_application/_build
+-- Build files have been written to:  /home/beq/beq286/workspace/tasks/lab03/solver_application/_build
 
 
 [ 12%] Building CXX object solver_lib/CMakeFiles/solver_lib.dir/solver.cpp.o
@@ -230,7 +230,7 @@ $cmake --build ./_build
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/zarok/projects/tp_labs/tp_projects/lab03/solver_lib/_build
+-- Build files have been written to:  /home/beq/beq286/workspace/tasks/lab03/solver_lib/_build
 
 Consolidate compiler generated dependencies of target solver_lib
 [ 50%] Building CXX object CMakeFiles/solver_lib.dir/solver.cpp.o
